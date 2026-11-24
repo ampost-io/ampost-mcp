@@ -2,6 +2,7 @@
 
 [![Listed on HookMCP](https://hookmcp.com/badge.svg)](https://hookmcp.com)
 [![Ampost MCP connector](https://glama.ai/mcp/connectors/io.ampost/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.ampost/mcp)
+[![mcptry](https://mcptry.com/badge/io.ampost/mcp)](https://mcptry.com/servers/io.ampost/mcp)
 
 The official remote [MCP](https://modelcontextprotocol.io) server for
 [Ampost](https://ampost.io?ref=github), the social media publishing API. Your AI agent can post,
