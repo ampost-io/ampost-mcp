@@ -118,3 +118,5 @@ assets/                 the screenshots above
 - Support: support@ampost.io
 
 MIT licensed (this repo's configs and docs).
+
+<!-- mcppedia-verify-40e2e35b0f09970883fb2895e929eaed -->
