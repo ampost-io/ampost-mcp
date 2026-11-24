@@ -13,6 +13,13 @@ Ampost hosts the server: there is nothing to install or run. It speaks Streamabl
 in with OAuth, or takes an API key. This repo holds its listing and client configs; the server code
 lives in Ampost itself.
 
+One message in Claude, one call to the server, and the post is live:
+
+<p>
+  <img src="assets/claude-post.png" alt="Claude posts to Bluesky with the Ampost MCP server: it lists the accounts, then publishes the post" width="560">
+  <img src="assets/bluesky-post.png" alt="The post on Bluesky" width="420">
+</p>
+
 ## Connect
 
 You need an [Ampost account](https://ampost.io/register?ref=github). The Free plan works; scheduling
@@ -96,6 +103,7 @@ do this week?"
 server.json             the entry in the official MCP Registry (io.ampost/mcp)
 .mcp.json               client config for Claude Code, Cursor and other clients
 gemini-extension.json   Gemini CLI extension
+assets/                 the screenshots above
 ```
 
 ## Links
