@@ -1,0 +1,10 @@
+{
+  "name": "ampost",
+  "version": "1.0.1",
+  "description": "Publish, schedule and analyze social media posts from Gemini CLI through the hosted Ampost MCP server",
+  "mcpServers": {
+    "ampost": {
+      "httpUrl": "https://api.ampost.io/mcp"
+    }
+  }
+}

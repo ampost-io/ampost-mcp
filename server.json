@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.ampost/mcp",
+  "title": "Ampost",
+  "description": "Schedule and publish social media posts to Instagram, Facebook, X, YouTube and more from AI agents",
+  "version": "1.0.1",
+  "websiteUrl": "https://ampost.io/docs/mcp",
+  "repository": { "url": "https://github.com/ampost-io/ampost-mcp", "source": "github" },
+  "icons": [{ "src": "https://ampost.io/favicon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://api.ampost.io/mcp" }]
+}
