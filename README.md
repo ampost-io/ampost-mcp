@@ -1,5 +1,7 @@
 # Ampost MCP server
 
+[![Listed on HookMCP](https://hookmcp.com/badge.svg)](https://hookmcp.com)
+
 The official remote [MCP](https://modelcontextprotocol.io) server for
 [Ampost](https://ampost.io?ref=github), the social media publishing API. Your AI agent can post,
 schedule, queue and analyze posts on Instagram, Facebook, Threads, X, YouTube, Pinterest, Bluesky,
