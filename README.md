@@ -113,7 +113,7 @@ assets/                 the screenshots above
 ## Links
 
 - [MCP server docs](https://ampost.io/docs/mcp?ref=github) and [API docs](https://ampost.io/docs?ref=github)
-- SDKs: [Node](https://github.com/ampost-io/ampost-node), [Python](https://github.com/ampost-io/ampost-python), [CLI](https://github.com/ampost-io/ampost-cli)
+- SDKs: [Node](https://github.com/ampost-io/ampost-node), [Python](https://github.com/ampost-io/ampost-python), [Ruby](https://github.com/ampost-io/ampost-ruby), [CLI](https://github.com/ampost-io/ampost-cli)
 - Automation: [n8n node](https://github.com/ampost-io/n8n-nodes-ampost), [Make app](https://github.com/ampost-io/make-ampost)
 - [Privacy](https://ampost.io/privacy?ref=github) and [terms](https://ampost.io/tos?ref=github)
 - Support: support@ampost.io
