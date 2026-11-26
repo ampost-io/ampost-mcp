@@ -85,7 +85,9 @@ A key can be read-only or scoped to what the agent needs.
 
 ## Tools
 
-43 tools. Every write takes an idempotency key, so a retried call never posts twice.
+43 tools. `posts_create`, `posts_import_csv`, `posts_publish`, `posts_retry`, `accounts_connect`,
+`platform_sets_create`, `webhooks_create` and `feedback_submit` take an idempotency key, so a retried
+call never acts twice.
 
 | Group | Tools |
 | --- | --- |
